@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="70" />
+</div>
 <!--
 **RadinRavankhah/RadinRavankhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
